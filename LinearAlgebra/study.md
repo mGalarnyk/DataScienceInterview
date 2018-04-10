@@ -1,1 +1,1 @@
-1. Orthonormal Matrix
+1. Orthonormal Matrix: orthogonal and unit vectors.
