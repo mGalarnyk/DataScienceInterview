@@ -1,5 +1,10 @@
+# Stats for Now
+Going to move to Jupyter and RMarkdown as it can have Latex better than markdown. It will have some limitation, but better than nothing. Might make a bunch of links to other references for this. 
+
 ## Need to Know
-1. Ortho
+1. Orthogonal: dot product is zero. Reference: https://en.wikipedia.org/wiki/Orthogonality
+2. 
+
 
 ## Good to Know
 1. Orthonormal Matrix: orthogonal and unit vectors.
