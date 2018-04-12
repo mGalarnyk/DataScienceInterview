@@ -3,3 +3,4 @@
 3. Explain Bayes Theorem in layman's terms
 4) Name and explain 3 different dimensionality reduction strategies
 5) Explain boostrapping and its practical uses in machine learning
+6) Different types of clustering and how the algorithms work (hierarchical and KMEANS). 
