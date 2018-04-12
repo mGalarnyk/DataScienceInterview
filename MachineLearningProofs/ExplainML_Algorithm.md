@@ -6,4 +6,7 @@
 6. Different types of clustering and how the algorithms work (hierarchical and KMEANS). 
 7. You have two machine learning algorithms that have the same accuracy. How can you determine which is better. 
 <br> Expectation: ROC curves. 
-8. 
+8. How do you deal with imbalanced classes?
+<br> reference 1: imbalanced classes: http://www.datasciencecentral.com/profiles/blogs/dealing-with-imbalanced-datasets
+<br>reference 2 (smote): https://www.jair.org/media/953/live-953-2037-jair.pdf
+9.
