@@ -16,5 +16,5 @@ Folder | Subject | Blog
 Github Username | Blog | Other Social Media
 --- | --- | ---
 [mGalarnyk](https://github.com/mGalarnyk) | [Blog](https://github.com/mGalarnyk) | [Michael Galarnyk](https://www.youtube.com/c/MichaelGalarnyk)
-[snazrul1](https://github.com/snazrul1) | [Blog](https://medium.com/@GalarnykMichael) | [PyRevolution](https://www.youtube.com/channel/UCtMGQhxDihrhxoswOZ0p5oA)
+[snazrul1](https://github.com/snazrul1) | [Blog](https://medium.com/@sadatnazrul) | [PyRevolution](https://www.youtube.com/channel/UCtMGQhxDihrhxoswOZ0p5oA)
 [Ephraim Schoenbrun](https://github.com/eschoenbrun) | [Blog](https://ephraimschoenbrun.com) | None yet
