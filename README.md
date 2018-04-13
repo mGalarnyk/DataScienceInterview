@@ -9,7 +9,7 @@ Folder | Subject | Blog
 --- | --- | ---
 [Algorithms](https://github.com/mGalarnyk/DataScienceInterview/tree/master/Algorithms) |  [Algorithms](https://github.com/mGalarnyk/DataScienceInterview/tree/master/Algorithms) |  Coming Soon 
 [Deep Learning](https://github.com/mGalarnyk/DataScienceInterview/tree/master/DeepLearning) |  [Deep Learning](https://github.com/mGalarnyk/DataScienceInterview/tree/master/DeepLearning) |  Coming Soon 
-[Linear Algebra(https://github.com/mGalarnyk/DataScienceInterview/tree/master/LinearAlgebra)]|  [Linear Algebra(https://github.com/mGalarnyk/DataScienceInterview/tree/master/LinearAlgebra)] |  Coming Soon 
+[Linear Algebra](https://github.com/mGalarnyk/DataScienceInterview/tree/master/LinearAlgebra)|  [Linear Algebra](https://github.com/mGalarnyk/DataScienceInterview/tree/master/LinearAlgebra) |  Coming Soon 
 [Machine Learning](https://github.com/mGalarnyk/DataScienceInterview/tree/master/MachineLearning) |  [Machine Learning](https://github.com/mGalarnyk/DataScienceInterview/tree/master/MachineLearning) |  Coming Soon 
 
 ## Contributors
