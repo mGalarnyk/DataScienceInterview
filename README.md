@@ -4,7 +4,7 @@ Interview stuff to help you get that job! This is a new repo. Going to allow pul
 This repo was inspired by the [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778) by [Sadat Nazrul](https://github.com/snazrul1). 
 
 Subject | Folder | Blog
---- | --- | --- | ---
+--- | --- | ---
 Machine Learning |  Coming Soon |  Coming Soon 
 Machine Learning |  Coming Soon |  Coming Soon 
 Machine Learning |  Coming Soon |  Coming Soon 
