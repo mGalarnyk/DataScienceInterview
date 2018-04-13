@@ -1,0 +1,8 @@
+1. Name and describe three different kernel functions and in what situation you would use each.
+2. What is a kernel? Explain the Kernel trick
+3. Which kernels do you know? How to choose a kernel?
+4. How would you train SVM? What about hard SVM and soft SVM?
+5. How would you use SVD to perform PCA? When SVD is better than EVD for PCA?
+6. Is it beneficial to perform dimensionality reduction before fitting an SVM? Why or why not?
+7. What is the maximal margin classifier in an SVM? How this margin can be achieved and why is it beneficial?
+8. Why does SVM need to maximize the margin between support vectors?
