@@ -1,0 +1,5 @@
+1. Bootstrapping - how and why it is used?
+2. Define variance.
+3. How does the variance of the error term change with the number of predictors, in OLS?
+4. How would you control for biases?
+5. What is overfitting a regression model? What are ways to avoid it?
