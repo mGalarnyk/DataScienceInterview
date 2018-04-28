@@ -3,3 +3,5 @@ Every resource needs to be broken down and put into separate sections (and cite 
 1. https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b
 
 2. Algorithms used on daily basis by data scientist: https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspiring-data-scientists.html
+
+3. http://houseofbots.com/news-detail/2851-4-this-is-what-i-really-do-as-a-data-scientist
