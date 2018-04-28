@@ -5,3 +5,5 @@ Every resource needs to be broken down and put into separate sections (and cite 
 2. Algorithms used on daily basis by data scientist: https://www.kdnuggets.com/2018/04/key-algorithms-statistical-models-aspiring-data-scientists.html
 
 3. http://houseofbots.com/news-detail/2851-4-this-is-what-i-really-do-as-a-data-scientist
+
+4. https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-7-unsupervised-learning-pca-and-clustering-db7879568417
