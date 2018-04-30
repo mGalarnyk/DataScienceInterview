@@ -7,3 +7,5 @@ Every resource needs to be broken down and put into separate sections (and cite 
 3. http://houseofbots.com/news-detail/2851-4-this-is-what-i-really-do-as-a-data-scientist
 
 4. https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-7-unsupervised-learning-pca-and-clustering-db7879568417
+
+5. https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/overview
