@@ -13,3 +13,5 @@ Every resource needs to be broken down and put into separate sections (and cite 
 6. http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/
 
 7. https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b
+
+8. **useful**: http://houseofbots.com/news-detail/2248-4-109-commonly-asked-data-science-interview-questions
