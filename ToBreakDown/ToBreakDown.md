@@ -17,3 +17,5 @@ Every resource needs to be broken down and put into separate sections (and cite 
 8. **useful**: http://houseofbots.com/news-detail/2248-4-109-commonly-asked-data-science-interview-questions
 
 9. https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae
+
+10. https://medium.com/acing-ai
