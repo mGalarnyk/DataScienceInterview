@@ -51,5 +51,9 @@ Asked what a ROC curve was and asked to identify true positive true negative, an
 17. Big Data (spark etc)
 
 
+# Interview Preparation
+1. https://github.com/GalvanizeDataScience/data-science-primer
+2. https://github.com/GalvanizeOpenSource/stats-shortcourse
+
 
 
