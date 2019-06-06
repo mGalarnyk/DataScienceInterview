@@ -40,4 +40,16 @@ Asked what a ROC curve was and asked to identify true positive true negative, an
 
 12. https://www.springboard.com/blog/data-science-interview-questions/
 
+13. Frequentist and Bayesian Methods.
+
+14. Structured and unstructured data sets (scikit-learn, numpy, scipy)
+
+15. Distributions (binomial etc). 
+
+16. Natural language processing 
+
+17. Big Data (spark etc)
+
+
+
 
