@@ -38,4 +38,6 @@ You're going to be shown one and asked to explain which section is which.
 11. Interpreting train and test error. 
 Asked what a ROC curve was and asked to identify true positive true negative, and so on. Also asked about machine learning and training vs test accuracy.  
 
+12. https://www.springboard.com/blog/data-science-interview-questions/
+
 
