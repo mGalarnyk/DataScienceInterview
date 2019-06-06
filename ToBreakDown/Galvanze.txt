@@ -1,16 +1,4 @@
-
-realpython primitives
-
-Simple text reading program with return word count, average word amount,
-number of sentences
-
-sort an anagram (sort it in a dictionary)
-mean/mode of an array
-min max of an array. 
-
-conditional problems, sometimes binomial.  There's a simple regression analysis, and a basic question on interpreting complexity of a test/training set. 
-
-You'll also be asked to interpret an ROC graph.  Finally, you need to know what false-positive, true-positive, false-negative, and false-positive in logistic regression. You're going to be shown one and asked to explain which section is which.  Also, know what outliers are in a graph and.
+Finally, you need to know what false-positive, true-positive, false-negative, and false-positive in logistic regression. You're going to be shown one and asked to explain which section is which.  Also, know what outliers are in a graph and.
 
 python anagram. 
 MySQL
