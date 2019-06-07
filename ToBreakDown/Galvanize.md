@@ -76,6 +76,8 @@ Normal, Uniform, Exponential
 
 21. Lasso and Ridge Regression
 
+22. One sided vs two sided T test. 
+
 
 # Interview Preparation
 1. https://github.com/GalvanizeDataScience/data-science-primer
