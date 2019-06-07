@@ -72,6 +72,10 @@ The poisson distribution counts discrete occurrences among a continuous domain (
 <b>Continuous</b>
 Normal, Uniform, Exponential
 
+20. SVM
+
+21. Lasso and Ridge Regression
+
 
 # Interview Preparation
 1. https://github.com/GalvanizeDataScience/data-science-primer
