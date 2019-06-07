@@ -50,6 +50,28 @@ Asked what a ROC curve was and asked to identify true positive true negative, an
 
 17. Big Data (spark etc)
 
+18. What is a random variable? 
+A random variable X is an object that can be used to generate random numbers, in a way that valid probabilistic statements about the generated numbers can be made. 
+P(X=1)= .5
+P(X=1) = 1/12
+P(X>6) =0
+are all probabilistic statements about a random variable X. 
+
+19. Distributions (binomial etc). 
+Random variables
+* Number of heads seen in ten flips of a quarter
+* Number of heads seen in ten flips of a dime. 
+have the same distribution
+
+The distribution of a random variable is the pattern of all probabilities we assign to all outcomes of the random variable. So two random variables have the same distribution if they all assign the same probabilities to all possible outcomes. In this case, we  say that these random variables are equally distributed. 
+
+<b>Discrete</b>
+The binomial distribution counts discrete occurrences among discrete trials.
+
+The poisson distribution counts discrete occurrences among a continuous domain (typically events in time). 
+<b>Continuous</b>
+Normal, Uniform, Exponential
+
 
 # Interview Preparation
 1. https://github.com/GalvanizeDataScience/data-science-primer
